@@ -15,4 +15,5 @@ Jogo criado para consolidar alguns conceitos básicos em desenvolvimento de jogo
 Enquanto isso, que tal me seguir nas redes vizinhas?
 
 Instagram: [Click Here](https://www.instagram.com/welli.18/)
+
 Twitter: Coming Soon
