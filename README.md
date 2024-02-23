@@ -6,7 +6,7 @@ Jogo criado para consolidar alguns conceitos básicos em desenvolvimento de jogo
 ## Ideias intermediarias:
 
 - Adição de Gráficos;
-- Adição de trilha sonora;
+- Adição de trilha sonora;  
 ... muito mais!
   
 
